@@ -1,0 +1,16 @@
+h1, h2 {text-decoration: underline;
+text-align: center}
+
+h1{color: rgb(102, 155, 188)}
+
+h2{text-align: right;
+    color: rgba(102, 155, 188, 50%)}
+
+
+p{text-align: justify;
+text-align-last: center
+background-color: }
+
+strong{}
+em{}
+
